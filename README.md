@@ -1,2 +1,2 @@
-# Curso-b-sico-de-Python
+# Curso-basico-de-Python
 Curso Básico Oficina Python
